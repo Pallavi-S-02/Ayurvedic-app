@@ -1,0 +1,11 @@
+langchain
+langchain-community==0.0.19
+google-generativeai
+python-dotenv
+chromadb
+langchain_google_genai
+unstructured[all-docs]
+groq
+langchain-groq
+faiss-cpu==1.7.4
+
